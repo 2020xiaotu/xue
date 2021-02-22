@@ -235,7 +235,7 @@ ui.menu.on("item_click", item => {
 
 
 ui.click_me.on("click", ()=>{
-    toast("选择'自动学习强国'开启无障碍");
+    toast("选择此APP开启无障碍");
     engines.execScript("选择'自动学习强国'开启无障碍","auto.waitFor();console.show();console.hide();");
 });
 
