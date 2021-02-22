@@ -1,0 +1,16 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "4E394269-163",
+    "build_number": 163,
+    "build_time": 1611582894640
+  },
+  "useFeatures": [],
+  "icon": "res/logo.png",
+  "main": "main.js",
+  "name": "HuiZi",
+  "packageName": "com.zw.huizi",
+  "scripts": {},
+  "versionCode": 2,
+  "versionName": "2.4.2"
+}
